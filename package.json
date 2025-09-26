@@ -1,0 +1,19 @@
+{
+  "name": "RetroTuneBox",
+  "main": "RetroTuneBox.html",
+  "author": "exyone.dev@icloud.com",
+  "version": "1.0.0",
+  "description": "RetroTuneBox music player for NW.js",
+  "window": {
+    "title": "RetroTuneBox - Retro音乐盒",
+    "icon": "icon.png",
+    "width": 550,
+    "height": 780,
+    "min_width": 400,
+    "min_height": 700,
+    "resizable": true,
+    "frame": true,
+    "transparent": false,
+    "show_in_taskbar": true
+  }
+}
